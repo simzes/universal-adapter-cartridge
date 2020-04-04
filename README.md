@@ -50,7 +50,8 @@ Some related resources about fitting a respirator, cleaning a respirator base, a
 - [3M fitting and testing instructions](https://multimedia.3m.com/mws/media/40742O/3m-elastomeric-half-facepiece-respirator-fitting-poster.pdf)
 - [3M respirator base cleaning](https://multimedia.3m.com/mws/media/133586O/3m-reusable-respirator-inspection-cleaning-storage-procedures.pdf)
 - [Surgical Masks, Surgical Respirators, and Respirators](https://multimedia.3m.com/mws/media/1794572O/surgical-n95-vs-standard-n95-which-to-consider.pdf)
-- 3M filter types
+- [3M filter types](https://multimedia.3m.com/mws/media/565214O/3m-cartridge-filter-guide-and-brochure.pdf)
+
 # Details
 ## Use Instructions
 
